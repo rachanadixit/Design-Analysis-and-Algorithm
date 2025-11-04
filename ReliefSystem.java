@@ -90,4 +90,5 @@ public class ReliefSystem {
         if (r == (long) r) return String.valueOf((long) r) + ".0";
         return String.valueOf(r);
     }
+
 }
