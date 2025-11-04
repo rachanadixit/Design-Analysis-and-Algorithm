@@ -1,0 +1,5 @@
+PS C:\Users\sonal\OneDrive\Desktop\DAA>  c:; cd 'c:\Users\sonal\OneDrive\Desktop\DAA'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\sonal\AppData\Roaming\Code\User\workspaceStorage\47f42c137efebe925a58cacb9ca95a6c\redhat.java\jdt_ws\DAA_e606e8f7\bin' 'TSP' 
+Best cost: 117.4
+Route:
+0 -> 1 -> 2 -> 3 -> 4 -> 0
+PS C:\Users\sonal\OneDrive\Desktop\DAA>
