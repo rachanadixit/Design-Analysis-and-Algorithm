@@ -1,0 +1,28 @@
+PS C:\Users\sonal\OneDrive\Desktop\DAA>  & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\sonal\AppData\Roaming\Code\User\workspaceStorage\47f42c137efebe925a58cacb9ca95a6c\redhat.java\jdt_ws\DAA_e606e8f7\bin' 'SimpleTimetable' 
+Number of courses (N): 5
+Number of rooms (R): 3
+Enter course sizes (one per line):
+30
+25
+20
+35
+40
+Enter room capacities (one per line):
+25
+45
+50
+Number of students S: 6
+For each student, enter enrolled course ids (space separated, 0-based):
+0 1
+0 2
+1 2
+2 3
+3 4
+0 4
+Found schedule with 3 slots:
+Course 0 -> Slot 1, Room 1
+Course 1 -> Slot 2, Room 0
+Course 2 -> Slot 3, Room 0
+Course 3 -> Slot 1, Room 2
+Course 4 -> Slot 2, Room 1
+PS C:\Users\sonal\OneDrive\Desktop\DAA> 
