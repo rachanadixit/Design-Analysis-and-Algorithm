@@ -1,0 +1,29 @@
+PS C:\Users\sonal\OneDrive\Desktop\DAA>  & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\sonal\AppData\Roaming\Code\User\workspaceStorage\47f42c137efebe925a58cacb9ca95a6c\redhat.java\jdt_ws\DAA_e606e8f7\bin' 'Routefinder' 
+How many nodes in the multistage graph? 12
+How many directed edges? 18
+Enter each edge as: from to cost
+0 1 3
+0 2 2
+0 3 5
+1 4 4
+1 5 6
+2 4 1
+2 5 3
+3 5 2
+3 6 6
+4 7 5
+4 8 2
+5 8 4
+5 9 3
+6 9 5
+7 10 3
+8 10 4
+9 11 2
+10 11 1
+Source node: 0
+Destination node: 11
+
+Optimal route (if exists):
+0 -> 2 -> 4 -> 8 -> 10 -> 11
+Computation time: 0.0208 ms
+PS C:\Users\sonal\OneDrive\Desktop\DAA> 
