@@ -1,0 +1,23 @@
+PS C:\Users\sonal\OneDrive\Desktop\DAA>  & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\sonal\AppData\Roaming\Code\User\workspaceStorage\47f42c137efebe925a58cacb9ca95a6c\redhat.java\jdt_ws\DAA_e606e8f7\bin' 'find_Hospital'       
+Enter number of intersections (vertices): 
+6
+Enter number of roads (edges): 
+8
+Enter the Edge (u,v,w)
+0 1 4
+0 2 2
+1 2 1
+1 3 5
+2 3 8
+2 4 10
+3 4 2
+4 5 3
+Enter ambulance start location (source): 
+0
+Enter number of hospitals: 
+2
+Enter hospital nodes: 
+3 5
+Nearest hospital is at node 3 with travel time 8 minutes.
+Path: [0, 2, 1, 3]
+PS C:\Users\sonal\OneDrive\Desktop\DAA> 
