@@ -1,0 +1,34 @@
+PS C:\Users\sonal\OneDrive\Desktop\DAA> 
+PS C:\Users\sonal\OneDrive\Desktop\DAA>  c:; cd 'c:\Users\sonal\OneDrive\Desktop\DAA'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\sonal\AppData\Roaming\Code\User\workspaceStorage\47f42c137efebe925a58cacb9ca95a6c\redhat.java\jdt_ws\DAA_e606e8f7\bin' 'KnapSack' 
+Enter number of items: 4
+
+Enter details for item 1:
+Name: laptop
+Weight: 
+3
+Utility Value: 25
+
+Enter details for item 2:
+Name: mobile
+Weight: 2
+Utility Value: 20
+
+Enter details for item 3:
+Name: headphones
+Weight: 1
+Utility Value: 15
+
+Enter details for item 4:
+Name: charger
+Weight: 3
+Utility Value: 15
+
+Enter truck capacity (W in kg): 7
+
+Items selected:
+ - headphones (Weight: 1, Value: 15)
+ - mobile (Weight: 2, Value: 20)
+ - laptop (Weight: 3, Value: 25)
+
+Maximum Utility Value: 60
+PS C:\Users\sonal\OneDrive\Desktop\DAA> 
