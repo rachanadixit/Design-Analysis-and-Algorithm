@@ -1,0 +1,19 @@
+PS C:\Users\sonal\OneDrive\Desktop\DAA>  & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\sonal\AppData\Roaming\Code\User\workspaceStorage\47f42c137efebe925a58cacb9ca95a6c\redhat.java\jdt_ws\DAA_e606e8f7\bin' 'MovieSorting' 
+Sort movies by (rating/year/popularity): rating
+
+Sorting 100000 movies by rating...
+
+Top 10 movies by rating:
+Movie 9123 | Rating: 9.9 | Year: 2000 | Popularity: 107155
+Movie 89671 | Rating: 9.9 | Year: 2011 | Popularity: 799384
+Movie 39139 | Rating: 9.9 | Year: 2006 | Popularity: 622404
+Movie 91122 | Rating: 9.9 | Year: 2000 | Popularity: 587556
+Movie 9089 | Rating: 9.9 | Year: 2011 | Popularity: 588673
+Movie 66475 | Rating: 9.9 | Year: 1992 | Popularity: 332010
+Movie 33029 | Rating: 9.9 | Year: 1997 | Popularity: 619298
+Movie 18091 | Rating: 9.9 | Year: 2016 | Popularity: 196565
+Movie 1457 | Rating: 9.9 | Year: 2016 | Popularity: 242194
+Movie 31656 | Rating: 9.9 | Year: 2001 | Popularity: 719152
+
+Sorted 100,000 movies in 0.296 seconds.
+PS C:\Users\sonal\OneDrive\Desktop\DAA> 
