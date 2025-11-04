@@ -1,0 +1,16 @@
+PS C:\Users\sonal\OneDrive\Desktop\DAA>  & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\sonal\AppData\Roaming\Code\User\workspaceStorage\47f42c137efebe925a58cacb9ca95a6c\redhat.java\jdt_ws\DAA_e606e8f7\bin' 'MergeSortOrders' 
+Sorted Orders (First 10): 
+OrderID: ORD461956 | Timestamp: 2720343816251
+OrderID: ORD871710 | Timestamp: 10054269134213
+OrderID: ORD751963 | Timestamp: 14026204386165
+OrderID: ORD187956 | Timestamp: 15701841620936
+OrderID: ORD141373 | Timestamp: 39820444375215
+OrderID: ORD635355 | Timestamp: 56514443106553
+OrderID: ORD365477 | Timestamp: 67009080998244
+OrderID: ORD744109 | Timestamp: 77553048319204
+OrderID: ORD44586 | Timestamp: 82676905827533
+OrderID: ORD558926 | Timestamp: 87179355494506
+
+Total Orders Sorted: 1000000
+Sorting Time: 412 ms
+PS C:\Users\sonal\OneDrive\Desktop\DAA> 
