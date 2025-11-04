@@ -1,0 +1,45 @@
+PS C:\Users\sonal\OneDrive\Desktop\DAA>  & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\sonal\AppData\Roaming\Code\User\workspaceStorage\47f42c137efebe925a58cacb9ca95a6c\redhat.java\jdt_ws\DAA_e606e8f7\bin' 'ReliefSystem' 
+Total Items : 5
+
+--- Item 1 ---
+Name: dal
+Weight (kg): 2
+Utility (importance): 100
+Divisible? (y/n or 1/0): 1
+
+--- Item 2 ---
+Name: rice
+Weight (kg): 50
+Utility (importance): 200
+Divisible? (y/n or 1/0): 1
+
+--- Item 3 ---
+Name: water
+Weight (kg): 30
+Utility (importance): 150
+Divisible? (y/n or 1/0): 1
+
+--- Item 4 ---
+Name: packetfood
+Weight (kg): 20
+Utility (importance): 90
+Divisible? (y/n or 1/0): y
+
+--- Item 5 ---
+Name: fruits
+Weight (kg): 25
+Utility (importance): 300
+Divisible? (y/n or 1/0): n
+
+Boat capacity (kg): 60
+
+Output:
+ - dal: took 2.0 kg (utility +100.0)
+ - fruits: took whole item (25.0 kg, utility +300.0)
+ - water: took 30.0 kg (utility +150.0)
+ - packetfood: took 3.0 kg (utility +13.5)
+
+Total weight loaded: 60.0 / 60.0 kg
+Total utility on board: 563.5
+Free space left: 0.0 kg
+PS C:\Users\sonal\OneDrive\Desktop\DAA> 
